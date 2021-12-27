@@ -10,7 +10,7 @@ npm install basic-react-dropdown
 import React, { useState } from "react";
 import Dropdown from "basic-react-dropdown";
 
-function Dropdown() {
+function Form() {
     const [department, setDepartment] = useState('');
     
     const onEditDepartment = (value) => {
@@ -30,8 +30,37 @@ function Dropdown() {
     )
 }
 
-export default Dropdown;
+export default Form;
 ```
+
+## API
+### Props
+<table class="table table-bordered table-striped">
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>Type</th>
+        <th>Description</th>
+    </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <td>options</td>
+          <td>array</td>
+          <td>Array of object with value and label as property</td>
+        </tr>
+        <tr>
+          <td>onChange</td>
+          <td>function</td>
+          <td>Launch function when user select value</td>
+        </tr>
+        <tr>
+          <td>value</td>
+          <td>string</td>
+          <td>Display value of selected option</td>
+        </tr>
+    </tbody>
+</table>
 
 ## Development
 ```
