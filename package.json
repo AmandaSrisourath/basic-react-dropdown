@@ -1,6 +1,6 @@
 {
   "name": "basic-react-dropdown",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",

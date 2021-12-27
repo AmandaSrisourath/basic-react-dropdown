@@ -6,7 +6,7 @@ npm install basic-react-dropdown
 ```
 
 ## Usage
-```
+```js
 import React, { useState } from "react";
 import Dropdown from "basic-react-dropdown";
 
