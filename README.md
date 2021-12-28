@@ -1,5 +1,7 @@
 # basic-react-dropdown
 
+[npm basic-react-dropdown](https://www.npmjs.com/package/basic-react-dropdown)
+
 ## Installation
 ```
 npm install basic-react-dropdown
