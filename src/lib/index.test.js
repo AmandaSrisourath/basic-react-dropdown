@@ -1,3 +1,4 @@
+import '@testing-library/jest-dom';
 import React from "react";
 import { Dropdown } from "./dropdown";
 import { render, fireEvent, screen } from "@testing-library/react";
