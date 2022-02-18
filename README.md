@@ -2,6 +2,8 @@
 
 [npm basic-react-dropdown](https://www.npmjs.com/package/basic-react-dropdown)
 
+![](https://github.com/AmandaSrisourath/basic-react-dropdown/blob/main/public/dropdown.png)
+
 ## Installation
 ```
 npm install basic-react-dropdown
